@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822633319324",
+    "project_id": "rehberuygulamam",
+    "storage_bucket": "rehberuygulamam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822633319324:android:aacbfc73ce983e053a1659",
+        "android_client_info": {
+          "package_name": "com.example.telefon_rehberi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjU1kAKz3Yp3WhhZ4arsHDULzGy2Izhtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
