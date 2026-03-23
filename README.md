@@ -1,15 +1,26 @@
 # Telefon Rehberi Uygulaması 📱
 
-Mersin Yenişehir Belediyesi stajı kapsamında geliştirilmiş dahili telefon rehberi uygulamasıdır.
+Flutter ile geliştirilmiş basit bir telefon rehberi uygulaması.
+
+---
 
 ## 🚀 Özellikler
-- Kişi ekleme ve listeleme
-- Birimlere göre filtreleme
-- Dahili numara ile arama
 
-## 🛠️ Teknolojiler
-- Flutter
-- Firebase
+- Kişi ekleme, listeleme, güncelleme ve silme
+- Birime göre filtreleme
+- Firebase entegrasyonu
+- Profesyonel ve temiz UI
 
-## ⚠️ Not
-Bu projede kullanılan personel bilgileri gerçek değildir, proje amaçlıdır.
+---
+
+## APK
+
+Uygulamayı test etmek için [APK dosyasını buradan indir](apk/app-release.apk)
+
+---
+
+## ⚙️ Kurulum
+
+1. Repo’yu klonla:
+```bash
+git clone https://github.com/kullaniciadi/telefon-rehberi-app.git
